@@ -40,7 +40,7 @@ const reasons = [
 ];
 
 const galleryItems = [
-  { image: '/5.jpeg', title: 'Atuador de embreagem Mercedes', category: 'Peças e componentes' },
+  { image: '/5.jpeg', title: 'Válvula três posição câmbio MB', category: 'Peças e componentes' },
   { image: '/1.jpeg', title: 'Motor FH', category: 'Motores diesel' },
   { image: '/2.jpeg', title: 'Câmbios à base de troca', category: 'Transmissões' },
   { image: '/4.jpeg', title: 'Teste de servo ECA', category: 'Diagnóstico e testes' },
